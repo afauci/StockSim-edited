@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock Sim</string>
+    <string name="static_stock_button">Next cycle</string>
+    <string name="log_in_button">Log in!</string>
+    <string name="log_out_button">Log out!</string>
+    <string name="increase_percent">Increase percent (out of 100)</string>
+    <string name="variant_percent">Variant percent (out of 100)</string>
+    <string name="inflation_percent">Inflation percent (out of 100)</string>
+</resources>
